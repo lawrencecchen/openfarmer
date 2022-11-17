@@ -1,6 +1,6 @@
 # openfarmer
 
-Farming tools that exist today are proprietary, expensive, and not open source. This project will change that.
+Farming tools today are proprietary, expensive, and not open source. This project will change that.
 
 ## Projects
 
